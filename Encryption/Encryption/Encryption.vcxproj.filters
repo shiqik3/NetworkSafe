@@ -24,6 +24,12 @@
     <ClInclude Include="caesar.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="singleTableSwap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="playfair.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

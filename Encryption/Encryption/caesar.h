@@ -1,12 +1,9 @@
 #pragma once
 // Encryption.cpp: 定义控制台应用程序的入口点。
-//
 
-#include"stdafx.h"
 #include<iostream>
-#include<cstdio>
 
-using namespace std;
+//using namespace std;
 
 char* caesar1(char* src, char *dst)
 {
